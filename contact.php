@@ -38,7 +38,7 @@ require_once('header.php');
                 </ul>
             </div>
             <div class="col-md-9">
-                <iframe class="contact-map rounded" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2234.318773217474!2d-3.1007196838666125!3d55.943846684708404!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4887b9a7365fccff%3A0x52629bc613f4b94b!2sEdinburgh%20College%20(Milton%20Road%20Campus)!5e0!3m2!1sen!2suk!4v1622677261419!5m2!1sen!2suk" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                <iframe class="contact-map rounded" src="******" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
             </div>
         </div>
     </section>
