@@ -1,7 +1,7 @@
     <?php
 
     $email = $_POST['email'];
-    $adminemail = "ec1928063@edinburghcollege.ac.uk";
+    $adminemail = "******";
 
     $headers = "From: " . $email . "\r\n";
     $headers .= "Reply-To: " . $email . "\r\n";
@@ -25,5 +25,3 @@
     header('location: ../contact?feed=Thank you for contacting us!');
     exit;
     ?>
-
-    <img src="data:image/gif;base64,<?php echo base64_encode(file_get_contents('logo.svg')); ?>">
